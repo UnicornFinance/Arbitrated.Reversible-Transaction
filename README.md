@@ -1,2 +1,6 @@
 # Arbitrated.Reversible-Transaction
 It can be necessary to revert funds back to the sender in the case of theft, hacking, sophisticated scams & fraud, or social engineering. To do this we have an arbitration process! Inspired by an arbitration Court in the legal world. Certain individuals who have tremendous Community reputation and seniority can be elected as arbitrators. They will handle cases on behalf of individuals & entities (Trusts, businesses, non-profits) who are harmed. the goal should be absolute fairness! We also will have an AI handle low level & small denomination cases, but it can be vetoed or overturned by the human arbitrators.
+
+# Case:
+## Heist / Theft
+The cryptocurrency community has always been plagued by large scale and enormously damaging heists & thefts. For example some of the largest crypto exchanges in the early days of Bitcoin were looted. And mining pools / intermediaries like NiceHash had large high-profile heists in the tens of millions of dollars. 
